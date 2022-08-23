@@ -1,6 +1,15 @@
-title: Minimal theme
+title: <p align="center"> Sandipan Pramanik </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/sandipanpramanik/">LinkedIn</a> |
+  <a href="https://github.com/sandipanp/">GitHub</a>
+  
+  <br>   
+  I'm working on Technology Architect having an experience of 17 years.
+  <br>
+  </p>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
